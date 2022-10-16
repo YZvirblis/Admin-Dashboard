@@ -4,41 +4,24 @@
 
 ### Packages:
 
-### [`@emotion/react`](https://www.npmjs.com/package/@emotion/react)
-
-### [`@emotion/styled`](https://www.npmjs.com/package/@emotion/styled)
-
-### [`@mui/material`](https://www.npmjs.com/package/@mui/material)
-
-### [`@mui/x-data-grid`](https://www.npmjs.com/package/@mui/x-data-grid)
-
-### [`@mui/icons-material`](https://www.npmjs.com/package/@mui/icons-material)
-
-### [`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
-
-### [`react-pro-sidebar`](https://www.npmjs.com/package/react-pro-sidebar)
-
-### [`formik`](https://www.npmjs.com/package/formik)
-
-### [`yup`](https://www.npmjs.com/package/yup)
-
-### [`@fullcalendar/list`](https://www.npmjs.com/package/@fullcalendar/list)
-
-### [`@fullcalendar/core`](https://www.npmjs.com/package/@fullcalendar/core)
-
-### [`@fullcalendar/daygrid`](https://www.npmjs.com/package/@fullcalendar/daygrid)
-
-### [`@fullcalendar/timegrid`](https://www.npmjs.com/package/@fullcalendar/timegrid)
-
-### [`@nivo/line`](https://www.npmjs.com/package/@nivo/line)
-
-### [`@nivo/pie`](https://www.npmjs.com/package/@nivo/pie)
-
-### [`@nivo/geo`](https://www.npmjs.com/package/@nivo/geo)
-
-### [`@nivo/core`](https://www.npmjs.com/package/@nivo/core)
-
-### [`@nivo/bar`](https://www.npmjs.com/package/@nivo/bar)
+[`@emotion/react`](https://www.npmjs.com/package/@emotion/react)
+[`@emotion/styled`](https://www.npmjs.com/package/@emotion/styled)
+[`@mui/material`](https://www.npmjs.com/package/@mui/material)
+[`@mui/x-data-grid`](https://www.npmjs.com/package/@mui/x-data-grid)
+[`@mui/icons-material`](https://www.npmjs.com/package/@mui/icons-material)
+[`react-router-dom`](https://www.npmjs.com/package/react-router-dom)
+[`react-pro-sidebar`](https://www.npmjs.com/package/react-pro-sidebar)
+[`formik`](https://www.npmjs.com/package/formik)
+[`yup`](https://www.npmjs.com/package/yup)
+[`@fullcalendar/list`](https://www.npmjs.com/package/@fullcalendar/list)
+[`@fullcalendar/core`](https://www.npmjs.com/package/@fullcalendar/core)
+[`@fullcalendar/daygrid`](https://www.npmjs.com/package/@fullcalendar/daygrid)
+[`@fullcalendar/timegrid`](https://www.npmjs.com/package/@fullcalendar/timegrid)
+[`@nivo/line`](https://www.npmjs.com/package/@nivo/line)
+[`@nivo/pie`](https://www.npmjs.com/package/@nivo/pie)
+[`@nivo/geo`](https://www.npmjs.com/package/@nivo/geo)
+[`@nivo/core`](https://www.npmjs.com/package/@nivo/core)
+[`@nivo/bar`](https://www.npmjs.com/package/@nivo/bar)
 
 # Getting Started with Create React App
 
