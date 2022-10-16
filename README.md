@@ -23,6 +23,10 @@
 [`@nivo/core`](https://www.npmjs.com/package/@nivo/core)
 [`@nivo/bar`](https://www.npmjs.com/package/@nivo/bar)
 
+### Fonts:
+
+[Source Sans Pro](https://fonts.google.com/specimen/Source+Sans+Pro?query=Source+sans+pro),
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
